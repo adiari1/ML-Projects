@@ -1,5 +1,8 @@
 # ML-Projects
-The first project seeks to uncover the strongest drivers of stocks return for the medium to long term. Stocks information
+Credit Card Default Prediction 
+
+
+Stock Return Prediction seeks to uncover the strongest drivers of stocks return for the medium to long term. Stocks information
 from the NYSE and NASDAQ were used for the project.
 To achieve the goal of the project, fundamental data were collected from https://simfin.com/ whereas return data were scraped
 from yahoo finance. 
