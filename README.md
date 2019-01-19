@@ -22,3 +22,5 @@ beyond just accuracy were used. These include metrics such as Precision, Recall,
 use of cross validation/hyperparameter tuning, ensemble methods, data resampling techniques, etc.
 The last part of the model seeks to filter a subset or very important features that significantly explain changes in 
 stocks return (the dependent variable).
+
+Honeywell Stock Prices Prediction is a regression problem that attempts to predicted the future stock price of Honeywell International Inc. for the next 20 days using algorithms from machine learning and artificial intelligence.
