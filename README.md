@@ -23,4 +23,4 @@ use of cross validation/hyperparameter tuning, ensemble methods, data resampling
 The last part of the model seeks to filter a subset or very important features that significantly explain changes in 
 stocks return (the dependent variable).
 
-Honeywell Stock Prices Prediction is a regression problem that attempts to predict the future stock price of Honeywell International Inc. for the next 20 days using algorithms from machine learning and artificial intelligence.
+Honeywell Stock Price Prediction is a regression problem that attempts to predict the future stock price of Honeywell International Inc. for the next 20 days using algorithms from machine learning and artificial intelligence.
